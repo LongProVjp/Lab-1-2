@@ -1,0 +1,15 @@
+C:\Users\CPC\source\repos\HoangNgocLong\bin\Debug\net6.0\HoangNgocLong.exe
+C:\Users\CPC\source\repos\HoangNgocLong\bin\Debug\net6.0\HoangNgocLong.deps.json
+C:\Users\CPC\source\repos\HoangNgocLong\bin\Debug\net6.0\HoangNgocLong.runtimeconfig.json
+C:\Users\CPC\source\repos\HoangNgocLong\bin\Debug\net6.0\HoangNgocLong.dll
+C:\Users\CPC\source\repos\HoangNgocLong\bin\Debug\net6.0\HoangNgocLong.pdb
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.csproj.AssemblyReference.cache
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.AssemblyInfoInputs.cache
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.AssemblyInfo.cs
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.csproj.CoreCompileInputs.cache
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.dll
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\refint\HoangNgocLong.dll
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.pdb
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\HoangNgocLong.genruntimeconfig.cache
+C:\Users\CPC\source\repos\HoangNgocLong\obj\Debug\net6.0\ref\HoangNgocLong.dll
